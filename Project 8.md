@@ -46,7 +46,7 @@ Configure load-balancing
 
 `sudo vi /etc/apache2/sitees-available/000-default.conf`
 
-Add below configurations
+Add below configurations including preconfigured webserver private ip-addresses
 
 ![](images/7.png)
 
